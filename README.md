@@ -1,7 +1,8 @@
 #vishplayz
-new changeeeeee
+<<<<<<< Updated upstream
+new featur add this 
+delet previuous
+=======
+this is new feature
 
-need new change
-
-no need change
-
+>>>>>>> Stashed changes
