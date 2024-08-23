@@ -1,3 +1,8 @@
 #vishplayz
+<<<<<<< Updated upstream
 new featur add this 
- another one 
+delet previuous
+=======
+this is new feature
+
+>>>>>>> Stashed changes
